@@ -9,6 +9,7 @@
         <page string="SaaS">
           <group>
             <field name="saas_plan_id"/>
+              <field name="price_discount"/>
           </group>
         </page>
       </xpath>
